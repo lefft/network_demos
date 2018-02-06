@@ -1,3 +1,6 @@
-_ignore/
-data/rds_edgelist.csv
 README.html
+_ignore/
+_old/
+_data/rds_edgelist.csv
+_data/cdc links_clean1.csv
+*/.ipynb_checkpoints
